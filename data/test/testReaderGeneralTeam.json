@@ -1,0 +1,16 @@
+{
+    "leaguename": "My league",
+    "players": [
+        {
+            "playername": "Ann",
+            "teamname": "My team",
+            "wages": 1
+        },
+        {
+            "playername": "Ben",
+            "teamname": "My team",
+            "wages": 2
+        }
+    ],
+    "teamname": "My team"
+}
