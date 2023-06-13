@@ -5,7 +5,6 @@ import model.League;
 import model.Team;
 
 import org.junit.jupiter.api.Test;
-import persistence.JsonReader;
 
 import java.io.IOException;
 import java.util.List;
